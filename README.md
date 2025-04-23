@@ -26,6 +26,8 @@ Server-Side Rendering (SSR) with Remix.
 
 ORM using Prisma.
 
+SQLite database.
+
 ## Run:
 
 Run the dev server:
