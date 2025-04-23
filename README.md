@@ -35,3 +35,7 @@ Run the dev server:
 ```shellscript
 npm run dev
 ```
+
+## Demo:
+
+Link video: https://drive.google.com/file/d/1FEbiK4QPyIXofNG20WA6KfHlrgAkzay_/view?usp=sharing 
